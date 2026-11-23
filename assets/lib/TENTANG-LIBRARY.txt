@@ -1,0 +1,11 @@
+Library yang dipakai (semua berlisensi MIT, disimpan lokal supaya project jalan
+di XAMPP/Laragon tanpa internet dan tidak bergantung pada CDN):
+
+1. bootstrap.min.css       Bootstrap 5.3.2 dalam build tema Bootswatch "Cerulean".
+                           Nama kelas dan perilakunya sama dengan Bootstrap 5.3.2.
+                           Warna dan font ditimpa oleh assets/css/style.css.
+2. bootstrap.bundle.min.js Bootstrap 5.3.2 (resmi, sudah termasuk Popper).
+3. jquery-3.6.1.min.js     jQuery 3.6.1.
+
+Kalau mau memakai file resmi dari getbootstrap.com, ganti file nomor 1 dan 2
+dengan nama yang sama. Kelas Bootstrap yang dipakai project ini tidak berubah.

@@ -1,0 +1,3 @@
+Taruh gambar tampilan website di folder ini (hero, Tentang Kami, kategori).
+Nama file harus sama dengan yang ada di README.txt, bagian "Mengganti gambar".
+Contoh: hero-1.jpg, tentang-1.jpg, kategori-nugget-ayam-olahan.jpg

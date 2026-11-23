@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Gambar contoh kemasan Fiesta Chicken Nugget Stikie">
+<rect width="400" height="400" fill="#EEF7FC"/>
+<rect x="80" y="50" width="240" height="310" rx="10" fill="#fff" stroke="#0B2F4A" stroke-width="3"/>
+<rect x="80" y="50" width="240" height="70" rx="10" fill="#E8A23A"/>
+<text x="200" y="94" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="800" fill="#fff" stroke="#00000055" stroke-width="0.6">Fiesta</text>
+<text x="200" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#0B2F4A">Fiesta Chicken</text><text x="200" y="212" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#0B2F4A">Nugget Stikie</text>
+<text x="200" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#0B2F4A">500 gr</text>
+<text x="200" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#3F5A6E">gambar contoh</text>
+</svg>
